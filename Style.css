@@ -1,1 +1,32 @@
+h1 {
+    color:rgb(13, 106, 228);
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: bolder;
+  
+}
 
+b {
+    color:rgb(189, 18, 189);
+}
+h2 {
+    color:rgb(221, 10, 21); 
+    padding: 30px;
+    font-size: 30px;
+}
+p {
+    font-size: 25px; 
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+}
+
+.container{
+    background-color: rgb(188, 210, 238);
+    width: 90%;
+    height: 50%;
+    margin: 100px auto;
+    position: relative;
+    box-shadow: 0px 0px 50px 20px rgba(13, 106, 228, 0.493);
+    
+}
